@@ -15,3 +15,18 @@ We are striving to provide a solution by building a robust and dependable databa
 
 # Objective
 At Mediconnect, our primary objective is to provide a centralized database of all vaccines available in India, offering crucial information such as the diseases they prevent and any age restrictions associated with their administration. We aim to ensure that individuals and healthcare providers have easy access to accurate and up-to-date vaccine information, helping them make informed decisions regarding immunization.
+
+# Why Mediconnect???
+1. Mediconnect offers a first-of-its-kind, centralized database of all vaccines available in India, providing comprehensive and reliable information in one accessible platform.
+2. Our user-friendly interface and intuitive search functionality make it easy for individuals and healthcare providers to find the exact vaccine information they need.
+3. With a strong focus on underserved communities, Mediconnect aims to bridge the gap by providing affordable access to crucial vaccine information and potential clinical trial opportunities.
+4. By partnering with leading hospitals and research institutions, Mediconnect expands its reach and enables users to stay updated on the latest clinical trials happening across India, fostering medical advancements and giving hope to those in need.
+5. Mediconnect's commitment to accuracy, user engagement, and community-driven collaboration sets it apart as the go-to platform for vaccine information and access to medical advancements in India.
+
+# Future Vision
+1. We envision expanding our platform by partnering with leading hospitals and research institutions to bring information on clinical trials happening across India. By doing so, we aim to facilitate access to cutting-edge medical research and potential treatments for various health conditions. 
+2. Our mission is to contribute to the growth of the medical sector while also addressing the needs of undereserved communities by providing them with opportunities for affordable medical attention and potential access to vaccines through clinical trials.
+3. By partnering with leading hospitals and research institutions, Mediconnect expands its reach and enables users to stay updated on the latest clinical trials happening across India, fostering medical advancements and giving hope to those in need.
+
+![cartoon-vaccination-campaign-illustration_52683-62384](https://github.com/inkerton/Mediconnect/assets/127668005/20672698-6cfe-4a49-bf7e-663496f7c69a)
+
