@@ -24,7 +24,7 @@ At Mediconnect, our primary objective is to provide a centralized database of al
 5. Mediconnect's commitment to accuracy, user engagement, and community-driven collaboration sets it apart as the go-to platform for vaccine information and access to medical advancements in India.
 
 # Working project till now!
-
+Link: https://www.youtube.com/watch?v=-ksdVBZetEo
 # Future Vision
 1. We envision expanding our platform by partnering with leading hospitals and research institutions to bring information on clinical trials happening across India. By doing so, we aim to facilitate access to cutting-edge medical research and potential treatments for various health conditions. 
 2. Our mission is to contribute to the growth of the medical sector while also addressing the needs of undereserved communities by providing them with opportunities for affordable medical attention and potential access to vaccines through clinical trials.
