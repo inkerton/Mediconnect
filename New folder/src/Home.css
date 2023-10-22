@@ -1,0 +1,24 @@
+.home_img1{
+  width: 100%;  
+  height:604px;
+  
+}
+img{
+    background-size: cover;
+    width: 50%;
+    height:50%;
+}
+.img_text1{
+    position: absolute;
+    right:2%; 
+    left: 2%;
+    bottom: 5%;
+    font-weight:500;
+   font-family: cursive;
+   font-size: large;
+   color:white;
+   background-color: rgb(29, 38, 125);
+   border-radius: 20px;;
+
+}
+
