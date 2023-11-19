@@ -2,7 +2,7 @@
 Welcome to Mediconnect, your comprehensive source of information on vaccines and medical advancements in India. We are dedicated to bridging the gap between individuals and essential healthcare resources, empowering people with knowledge and access to life-saving vaccines.
 
 Our goal simplified,
-“Injection signifies Medicinal Vaccines giving life to many hearts”
+<b>“Injection signifies Medicinal Vaccines giving life to many hearts”</b>
 
 # Problem Statement
 There are a lot of people who die unknowingly because of a disease that could have been preventable. The problem is that there is not anyone reliable source to look up to regarding diseases and their vaccines. We plan to provide a reliable database of vaccines and all the human trials happening all over India. A person can search for vaccines by age limit or by disease and poor people if willing may take part in human trials of various vaccines which allows them to get vaccinated, get medical attention, and also contributes to the development of Indian vaccinations.
